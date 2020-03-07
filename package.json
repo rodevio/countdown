@@ -1,0 +1,43 @@
+{
+  "name": "portkoon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "neal-react": "^0.2.5",
+    "react": "^16.8.6",
+    "react-countdown-now": "^2.1.0",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "react-tilt": "^0.1.4",
+    "tachyons-font-weight": "^5.0.5",
+    "tachyons-line-height": "^3.0.7",
+    "tachyons-skins": "^4.1.1",
+    "tachyons-spacing": "^6.0.5",
+    "tachyons-text-align": "^3.1.0",
+    "tachyons-type-scale": "^6.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tachyons": "^4.10.0"
+  }
+}
